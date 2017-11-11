@@ -1,5 +1,5 @@
 ## Search Hotel React
-- This is a repository for my learning.
+- This is a repository for my learning React and Redux.
 - https://www.udemy.com/react-redux-from-beginning/
 
 ## Tech Specs
