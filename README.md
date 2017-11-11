@@ -27,4 +27,4 @@ yarn run start
 
 ## Certification
 
-![alt text](https://github.com/KEN-chan/search-hotel-react/blob/master/certificate-udemy-react-redux.png)
+![alt text](https://github.com/KEN-chan/search-hotel-react/blob/master/certificate-udemy-react-redux.jpg)
